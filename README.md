@@ -1,0 +1,2 @@
+# MYGOV
+The above steps are taken by watching and analyzing my neighbor’s and my area problem so therefore I made some possibilities that can work indirectly to control the rapid spread of virus. These are totally my thoughts and done by me. I claim all the rights for this particular project. I came to know about this and immediately started working on it from 13April 2020, so therefore time was less. To add more features, analyzing the problem was required and for that, time plays a major role. However, the steps can be refined in various ways. 
